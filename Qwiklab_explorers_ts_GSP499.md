@@ -99,8 +99,8 @@ EOF
 cat details.json
 ```
 # Note :- 
-* ### Go to Task 1 > Point No.2 > Select region from lab instructions
-* ### Provide your confirmation type: Y and Enter (follow same process 3 times)
+* ### Go to Task 1 > Point No.2 > Check region > select numeric value in cloudshell (your provided region in lab instructions) 
+* ### Provide your confirmation type (in clodshell): Y and Enter (follow same process 3 times)
 * # Follow next all steps from video carefully...
 
 # Congratulations ..!! You completed the lab shortly..😃💯
